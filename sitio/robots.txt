@@ -1,0 +1,4 @@
+# Proyecto conceptual de Tereré Estudio: no se indexa (noindex en meta y en X-Robots-Tag).
+# Se permite el rastreo para que los buscadores lean ese noindex.
+User-agent: *
+Allow: /

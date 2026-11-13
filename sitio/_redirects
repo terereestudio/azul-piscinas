@@ -1,0 +1,4 @@
+# Netlify ya fuerza HTTPS.
+# Archivos que nunca deben quedar accesibles
+/.git/*       /404.html   404
+/herramientas/*  /404.html   404
